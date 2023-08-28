@@ -5,8 +5,8 @@ READ THIS ENTIRE DOCUMENT
 ### Course information
 
 **Instructor:**  Akshitha Sriraman <br/>		
-**Office Location:**  CIC 4114
-**Email Address:**  akshitha@cmu.edu  
+**Office Location:**  CIC 4114 <br/>
+**Email Address:**  akshitha@cmu.edu  <br/>
 **Office Hours:**  Mondays, 2:30 - 3:30 pm ET 
 
 **Teaching Assistant:** Melissa Pan <br/>
