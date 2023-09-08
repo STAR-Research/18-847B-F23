@@ -120,7 +120,8 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f23.hotcrp.
 | Oct 11 (W) | [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/Resource-Central-SOSP17.pdf) | Resource management/scheduling | - [Supplemental reading](http://research.google.com/pubs/pub43438.html) |  |   |  |
 | Oct 16 (M) | **Fall break: No Class** |  | |
 | Oct 18 (W) | **Fall break: No Class** |  | |
-| Oct 23 (M) | [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/serverless-ATC20.pdf) | Serverless computing | - [Supplemental reading](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf) |   | |   |
+| Oct 23 (M) | [Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/serverless-ATC20.pdf) | Serverless computing | - Guest: 
+[Mohammad Shahrad](https://mshahrad.github.io/) (UBC) - [Supplemental reading](https://www.cs.utexas.edu/users/witchel/pubs/jia21asplos-nightcore.pdf) |   | |   |
 | Oct 25 (W) | [Cost-Efﬁcient Overclocking in Immersion-Cooled Datacenters](https://www.microsoft.com/en-us/research/publication/cost-ef%ef%ac%81cient-overclocking-in-immersion-cooled-datacenters/) | DC cooling | |  |   | |
 | Oct 30 (M) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability |  |  | |  |
 | Nov 1 (W) | [ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf) | Sustainability | - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> | |  |  |
