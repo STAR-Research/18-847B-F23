@@ -104,8 +104,8 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f23.hotcrp.
 
 | Date      | Topic | Readings | Notes | Summary | Advocate | Critic |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Aug 28 (M) Lecture 1 | Introduction to Data center Computing | Introduction |- Find project partners <br/> - [Form](https://forms.gle/mnp6in6NxtikeBHu7) due|
-| Aug 30 (W) Lecture 2 <br/> | Introduction to Data center Computing | Introduction | - Finalize project partners <br/> | Akshitha Sriraman |
+| Aug 28 (M) Lecture 1 | [Introduction to Data center Computing](https://drive.google.com/file/d/1c04f6nlFjQi0E6h4NUl9Kb242eLALo5y/view?usp=drive_link) | Introduction |- Find project partners <br/> - [Form](https://forms.gle/mnp6in6NxtikeBHu7) due|
+| Aug 30 (W) Lecture 2 <br/> | [Introduction to Data center Computing](https://drive.google.com/file/d/1S1KTJMHY6Kx1Znkib7WKieCEG_8kA1LO/view?usp=drive_link) | Introduction | - Finalize project partners <br/> | Akshitha Sriraman |
 | Sep 4 (M) | **Holiday: No Class** |  | |
 | Sep 6 (W) | [An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud and Edge Systems](http://www.csl.cornell.edu/~delimitrou/papers/2019.asplos.microservices.pdf) | Web application paradigms | - Submit project proposal document describing project topic (<=1 page) on Sep 8 </br> -[Supplemental reading](https://www.nginx.com/blog/introduction-to-microservices/) | Sara Mahdizadeh Shahri | Shruti Mittal | Tianyun Zhang |
 | Sep 11 (M) | [Profiling a Warehouse-Scale Computer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf) | Microarchitecture analysis | | Simon Spivey | Simon Men | Veronica |
