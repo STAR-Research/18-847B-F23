@@ -125,8 +125,8 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f23.hotcrp.
 | Oct 30 (M) | [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://arxiv.org/pdf/2011.02839.pdf) | Sustainability |  | Rachana Murali Narayanan | Simon Men | Minh Truong |
 | Nov 1 (W) | [ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf) | Sustainability | - [Supplemental reading](https://hotcarbon.org/2023/pdf/a7-lyu.pdf) </br> | Xuesi Chen | Tianyun Zhang | Edwin Lim |
 | Nov 6 (M) | - [Nines are not enough](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f647d24ee7eeb338acebf1eb73a5d11b357620b0.pdf) | DC business model | | Sara Mahdizadeh Shahri | Lucas Castanheira | Veronica |
-| Nov 8 (W) | No paper review | Ethics | |  | |  |
-| Nov 13 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - Second project milestone due (<10 pages) <br/> - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Simon Men | Rachana Murali Narayanan | Simon Spivey |
+| Nov 8 (W) | No paper review | Ethics | - Second project milestone due (<10 pages) <br/> |  | |  |
+| Nov 13 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Simon Men | Rachana Murali Narayanan | Simon Spivey |
 | Nov 15 (W) | **No Class** |  | |
 | Nov 20 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  |  Veronica | Shruti Mittal  | Lucas Castanheira   |
 | Nov 22 (W) | **Thanksgiving: No Class** |  | |
