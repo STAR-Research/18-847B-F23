@@ -128,7 +128,7 @@ Please submit a review for each paper on [hotcrp](https://cmu-18-847-f23.hotcrp.
 | Nov 8 (W) | No paper review | Ethics | - Second project milestone due (<10 pages) <br/> |  | |  |
 | Nov 13 (M) | [Software-defined far memory in warehouse-scale computers](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9bb06ab825a127bef4e33c488eaa659d6856225a.pdf) | ML for datacenter systems | - [Supplemental reading](https://www.microsoft.com/en-us/research/uploads/prod/2020/01/CACM20-produced.pdf) | Simon Men | Rachana Murali Narayanan | Simon Spivey |
 | Nov 15 (W) | **No Class** |  | |
-| Nov 20 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  |  Veronica | Shruti Mittal  | Lucas Castanheira   |
+| Nov 20 (M) | [Bolt: I Know What You Did Last Summer... in the Cloud](https://www.csl.cornell.edu/~delimitrou/papers/2017.asplos.bolt) | Security | [Supplemental reading](https://hovav.net/ucsd/dist/cloudsec.pdf)  |  Veronica | Shruti Mittal  | Rachana Murali Narayanan |
 | Nov 22 (W) | **Thanksgiving: No Class** |  | |
 | Nov 27 (M) | [Cores that don't count](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/012b01a2571a6e226259cd0c4628eb3015157d44.pdf) | Reliability |  | Edwin Lim | Jeff Chen   |  Minh Truong	  |
 | Nov 29 (W) |  **No Class** |  | |
